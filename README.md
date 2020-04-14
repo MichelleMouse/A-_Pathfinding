@@ -21,14 +21,14 @@ c++ A_search.cpp -o search
 
 This should take a few seconds and the output file `search` should auto-generate on the project folder.
 
-![Compiling](https://imgur.com/0YdCeBB)
+![Compiling](https://i.imgur.com/0YdCeBB.png)
 
 #### Running
 1. Run the output file `search`.
 ```
 $ ./search
 ```
-![Running](https://imgur.com/fxL8214)
+![Running](https://i.imgur.com/fxL8214.png)
 
 ### Contact
 Find me on
